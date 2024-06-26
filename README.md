@@ -1,7 +1,7 @@
 [![MasterHead](https://media3.giphy.com/media/nUhKsxE17i3TCNaJnV/200w.gif)](https://ankitrajsh.io)
 
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">A passionate ML Engineer from IIT Hyderabad</h3>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
