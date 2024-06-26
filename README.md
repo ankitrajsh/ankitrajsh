@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankitrajsh" target="blank"><img src="https://img.shields.io/twitter/follow/ankitrajsh?logo=twitter&style=for-the-badge" alt="ankitrajsh" /></a> </p>
 
-- 🔭 I’m currently working on [Convolabs](https://convolabs.in/)
+- 🔭 I’m currently working on Computer Vission
 
 - 🌱 I’m currently learning **Computer Vission**
 
