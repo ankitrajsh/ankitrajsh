@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif))](https://ankitrajsh.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif)](https://ankitrajsh.io)
 
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
