@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitrajsh" target="blank"><img src="https://img.shields.io/twitter/follow/ankitrajsh?logo=twitter&style=for-the-badge" alt="ankitrajsh" /></a> </p>
 
-- 🔭 I’m currently working on Computer Vission
+- 🔭 I’m currently working on Computer Vision
 
-- 🌱 I’m currently learning **Computer Vission**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitrajsh?tab=repositories](https://github.com/ankitrajsh?tab=repositories)
 
