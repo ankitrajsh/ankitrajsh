@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on Computer Vision
 
-- 🌱 I’m currently learning **Computer Vision**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ankitrajsh?tab=repositories](https://github.com/ankitrajsh?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@ankitrajsh](https://medium.com/@ankitrajsh)
