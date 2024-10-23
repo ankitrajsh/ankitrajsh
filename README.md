@@ -45,6 +45,8 @@
 <a href="https://linkedin.com/in/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitrajsh" height="30" width="40" /></a>
 <a href="https://medium.com/@ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankitrajsh" height="30" width="40" /></a>
 <a href="https://kaggle.com/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitrajsh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitrajsh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitrajsh" height="30" width="40" /></a>
 
 
 <!--
@@ -53,10 +55,8 @@
 
 -->
 
-<a href="https://www.hackerrank.com/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitrajsh" height="30" width="40" /></a>
 
 
-<a href="https://auth.geeksforgeeks.org/user/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitrajsh" height="30" width="40" /></a>
 
 <!--
 <a href="https://discord.gg/jUEYpNyZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jUEYpNyZ" height="30" width="40" /></a>
