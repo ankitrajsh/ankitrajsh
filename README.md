@@ -47,7 +47,10 @@
 <a href="https://www.geeksforgeeks.org/user/ankitrajsh/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="ankitrajsh" height="30" width="40" /></a>
 <a href="https://kaggle.com/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitrajsh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitrajsh" height="30" width="40" /></a>
-<a href="https://ankitrajsh.netlify.app" target="blank"><img align="center" src="https://rjksharma.com/wp-content/uploads/2024/06/rjksharma_profile-1-e1709402382953-1.png" alt="ankitrajsh" height="30" width="40" /></a>
+<a href="https://huggingface.co/ankitrajsh" target="blank">
+    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="yourusername" height="30" width="40" />
+</a>
+<a href="https://ankitrajsh.netlify.app" target="blank"><img align="center" src="https://i.pinimg.com/236x/b4/e6/6a/b4e66a5b5614cb91760860708400ff12.jpg" alt="ankitrajsh" height="30" width="40" /></a>
 
 
 <!--
