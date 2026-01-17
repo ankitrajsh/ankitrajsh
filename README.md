@@ -1,27 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
-<h3 align="center">A passionate ML Engineer from IIT Hyderabad</h3>
+<div align="center">
+  <h1>Hi, I'm Ankit Sharma</h1>
+  <h3>Data Scientist & ML Engineer | IIT Hyderabad</h3>
+  <p><strong>Available for Freelance Projects</strong></p>
+</div>
 
-- I’m currently working on **AI, ML, and Computer Vision** projects.
-- 🔭 My projects are available on [GitHub](https://github.com/ankitrajsh?tab=repositories).
-- 🔗 Read my articles on [Medium](https://medium.com/@ankitrajsh).
-- 💬 Ask me about **AI/ML/CV**.
-- 📧 Email me at **ankitraj.84060@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitrajsh" height="30" width="40" /></a>
-<a href="https://medium.com/@ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankitrajsh" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/ankitrajsh/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="ankitrajsh" height="30" width="40" /></a>
-<a href="https://kaggle.com/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ankitrajsh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ankitrajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitrajsh" height="30" width="40" /></a>
-<a href="https://huggingface.co/ankitrajsh" target="blank">
-    <img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="yourusername" height="30" width="40" />
-</a>
-<a href="https://ankitrajsh.netlify.app" target="blank"><img align="center" src="https://i.pinimg.com/236x/b4/e6/6a/b4e66a5b5614cb91760860708400ff12.jpg" alt="ankitrajsh" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">GitHub Stats:</h3>
+- Data Scientist & ML Engineer from IIT Hyderabad
+- Open to freelance consulting and project collaborations
+- I write articles on [Medium](https://medium.com/@ankitrajsh)
+- Reach me at **ankitraj.84060@gmail.com**
+- Portfolio: [ankitrajsh.netlify.app](https://ankitrajsh.netlify.app)
+
+## Services & Expertise
+
+I offer freelance services and take on projects in the following areas:
+
+### Data & AI
+- **AI Automations** - Intelligent workflow automation and process optimization
+- **Machine Learning** - Predictive models, classification, regression, deep learning, fine-tuning, data preparation, model training, model optimization, and architecture design
+- **Data Science** - Statistical analysis, insights extraction, and visualization
+- **Data Engineering** - ETL pipelines, data warehousing, and architecture
+- **Data Analytics** - Business intelligence, reporting, and data-driven decision making
+- **Computer Vision** - Image processing, object detection, and recognition systems
+
+### Development
+- **Full Stack Web Development** - React, Node.js, Python, Django, Flask
+- **Android Development** - Native and cross-platform mobile applications
+- **iOS Development** - Swift and cross-platform solutions
+- **System Design** - Scalable architecture and microservices design
+
+### Databases & Data Storage
+- **Relational Databases** - PostgreSQL, MySQL
+- **NoSQL Databases** - MongoDB, DynamoDB
+- **Graph Databases** - Neo4j
+- **Vector Databases** - Qdrant, Pinecone for AI/ML applications
+
+### Cloud & Deployment
+- **AWS** - EC2, S3, Lambda, SageMaker, RDS, and other AWS services
+- **Azure** - Azure ML, App Services, Functions, and cloud infrastructure
+- **GCP** - Compute Engine, BigQuery, Cloud Functions, and ML services
+- **DevOps** - CI/CD pipelines, Docker, Kubernetes, and infrastructure automation
+
+## Connect with me
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankitrajsh&theme=dark&hide_border=true" alt="ankitrajsh" />
+<a href="https://linkedin.com/in/ankitrajsh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@ankitrajsh" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://kaggle.com/ankitrajsh" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://www.hackerrank.com/ankitrajsh" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://huggingface.co/ankitrajsh" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
+<a href="https://www.geeksforgeeks.org/user/ankitrajsh/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitrajsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrajsh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ankitrajsh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitrajsh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
