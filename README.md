@@ -20,4 +20,8 @@
 <a href="https://ankitrajsh.netlify.app" target="blank"><img align="center" src="https://i.pinimg.com/236x/b4/e6/6a/b4e66a5b5614cb91760860708400ff12.jpg" alt="ankitrajsh" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajsh&theme=dark&hide_border=true" alt="ankitrajsh" />
+</p>
 
