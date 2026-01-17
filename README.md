@@ -22,10 +22,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<<<<<<< HEAD
   <img src="https://streak-stats.demolab.com/?user=ankitrajsh&theme=dark&hide_border=true" alt="ankitrajsh" />
-=======
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitrajsh&theme=dark&hide_border=true" alt="ankitrajsh" />
->>>>>>> 79debd780d046c0ac0f06cb3a5a1cd52af2b75f1
 </p>
 
