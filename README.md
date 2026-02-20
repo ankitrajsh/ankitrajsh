@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Ankit Sharma</h1>
   <h3>Data Scientist & ML Engineer | IIT Hyderabad</h3>
-  <p><strong>Available for Freelance Projects</strong></p>
+  <!-- <p><strong>Available for Freelance Projects</strong></p> -->
 </div>
 
 <br/>
@@ -13,36 +13,6 @@
 - I write articles on [Medium](https://medium.com/@ankitrajsh)
 - Reach me at **ankitraj.84060@gmail.com**
 - Portfolio: [ankitrajsh.netlify.app](https://ankitrajsh.netlify.app)
-
-## Services & Expertise
-
-I offer freelance services and take on projects in the following areas:
-
-### Data & AI
-- **AI Automations** - Intelligent workflow automation and process optimization
-- **Machine Learning** - Predictive models, classification, regression, deep learning, fine-tuning, data preparation, model training, model optimization, and architecture design
-- **Data Science** - Statistical analysis, insights extraction, and visualization
-- **Data Engineering** - ETL pipelines, data warehousing, and architecture
-- **Data Analytics** - Business intelligence, reporting, and data-driven decision making
-- **Computer Vision** - Image processing, object detection, and recognition systems
-
-### Development
-- **Full Stack Web Development** - React, Node.js, Python, Django, Flask
-- **Android Development** - Native and cross-platform mobile applications
-- **iOS Development** - Swift and cross-platform solutions
-- **System Design** - Scalable architecture and microservices design
-
-### Databases & Data Storage
-- **Relational Databases** - PostgreSQL, MySQL
-- **NoSQL Databases** - MongoDB, DynamoDB
-- **Graph Databases** - Neo4j
-- **Vector Databases** - Qdrant, Pinecone for AI/ML applications
-
-### Cloud & Deployment
-- **AWS** - EC2, S3, Lambda, SageMaker, RDS, and other AWS services
-- **Azure** - Azure ML, App Services, Functions, and cloud infrastructure
-- **GCP** - Compute Engine, BigQuery, Cloud Functions, and ML services
-- **DevOps** - CI/CD pipelines, Docker, Kubernetes, and infrastructure automation
 
 ## Connect with me
 
