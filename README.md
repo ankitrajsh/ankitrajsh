@@ -1,14 +1,11 @@
 <div align="center">
   <h1>Hi, I'm Ankit Sharma</h1>
-  <h3>Data Scientist & ML Engineer | IIT Hyderabad</h3>
   <!-- <p><strong>Available for Freelance Projects</strong></p> -->
 </div>
 
 <br/>
 
 ## About Me
-
-- Data Scientist & ML Engineer from IIT Hyderabad
 - Open to freelance consulting and project collaborations
 - I write articles on [Medium](https://medium.com/@ankitrajsh)
 - Reach me at **ankitraj.84060@gmail.com**
